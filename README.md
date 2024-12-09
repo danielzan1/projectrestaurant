@@ -1,2 +1,2 @@
-# landingpage que fiz junto com a @Larissa Kich no youtube pra treinar e aprimorar conhecimento de html css e  js :)
+este projeto e uma landing page desenvolvida com o objetivo de aprimorar meus conhecimentos em html css e  js
  
